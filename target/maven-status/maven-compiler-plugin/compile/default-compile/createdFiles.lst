@@ -1,0 +1,4 @@
+soa\webservice\NotebookWebServicePublisher.class
+soa\webservice\Person.class
+soa\webservice\NotebookServiceImpl.class
+soa\webservice\NotebookService.class
