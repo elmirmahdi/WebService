@@ -7,7 +7,7 @@ import javax.jws.WebService;
 public interface NotebookService {
 	boolean addPerson(Person p);
 /**
- * liste des personnes.
+ * liste des personnes
  * @return
  */
 	List<Person> getPersons();
