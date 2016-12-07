@@ -6,8 +6,9 @@ import javax.jws.WebService;
 @WebService(name = "NotebookService", targetNamespace="http://soa.webservice")
 public interface NotebookService {
 	boolean addPerson(Person p);
+
 /**
- * liste des personnes ????????????????? !!!!!!! commentaire 1 commentaire 3
+ * liste des personnes ????????????????? !!!!!!! commentaire 1 commentaire 2
  * @return
  */
 	List<Person> getPersons();
