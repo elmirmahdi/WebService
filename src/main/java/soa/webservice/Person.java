@@ -5,6 +5,9 @@ public class Person {
 
 	private String address;
 
+	/**
+	 * constructeur vide
+	 */
 	public Person() {
 	}
 

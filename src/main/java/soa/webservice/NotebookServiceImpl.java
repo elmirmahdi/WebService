@@ -15,6 +15,9 @@ public class NotebookServiceImpl implements NotebookService {
 		persons.add(new Person("Sébastien Loeb", "France"));
 	}
 
+	/**
+	 * methode pour ajouter une personne
+	 */
 	public boolean addPerson(Person p) {
 		System.out.println("addPerson method has been invoked:" + p);
 
@@ -30,6 +33,9 @@ public class NotebookServiceImpl implements NotebookService {
 		return persons.add(p);
 	}
 
+	/**
+	 * methode pour lister les personnes
+	 */
 	public List<Person> getPersons() {
 		System.out.println("getPersons method has been invoked.");
 
