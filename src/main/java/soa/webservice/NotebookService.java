@@ -9,7 +9,7 @@ public interface NotebookService {
 
 /**
  * liste des personnes ????????????????? !!!!!!! commentaire 1 commentaire 2
- * branche correctif
+ * branche correctif 2
  * @return
  */
 	List<Person> getPersons();
