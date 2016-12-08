@@ -7,6 +7,7 @@ public class Person {
 
 	/**
 	 * constructeur vide
+	 * corrective 2
 	 */
 	public Person() {
 	}

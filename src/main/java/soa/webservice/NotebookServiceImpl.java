@@ -17,6 +17,7 @@ public class NotebookServiceImpl implements NotebookService {
 
 	/**
 	 * methode pour ajouter une personne
+	 * corrective 2
 	 */
 	public boolean addPerson(Person p) {
 		System.out.println("addPerson method has been invoked:" + p);
